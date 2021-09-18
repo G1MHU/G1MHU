@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @G1MHU
+- 👋 Hi, I’m @G1MHU  Robin, a radio amateur from the UK
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning c++ with Visual Studio
 - 💞️ I’m looking to collaborate on nothing at the moment
